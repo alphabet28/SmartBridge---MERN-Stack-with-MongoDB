@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: 400px;
+}
+figcaption {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #555;
+}

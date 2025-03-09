@@ -1,0 +1,29 @@
+#p1 {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.2;
+    text-align: left;
+}
+
+#p2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+    text-align: center;
+}
+
+#p3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.8;
+    text-align: right;
+}
+
+#p4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    text-align: justify;
+}
+
+#p5 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.4;
+    text-align: center;
+}
