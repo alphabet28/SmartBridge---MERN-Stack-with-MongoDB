@@ -11,3 +11,8 @@ if (n % 2 === 0) {
     oddNumber = n
 }
 console.log(oddNumber);
+
+// let n = 7; // Change this number to test
+// let result = (n % 2 === 0) ? "Even" : "Odd";
+
+// console.log(`The number ${n} is ${result}.`);
